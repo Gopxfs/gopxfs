@@ -1,13 +1,12 @@
 # <p align=center>:wave: I'm Gabriel Fonseca, Full-stack web developer wannabe</p>
-- :computer: Currently studying JavaScript and its tools.
-- :pencil2: Looking forward to learning React.
-- :person_in_tuxedo: Seeking to improve my soft skills day after day.
-- :eyes: Logic problems always get my attention.
-- :joystick: I love playing almost every kind of game.
-- :telephone: I'm open to offers and looking for remote opportunities.
+- :computer: Currently studying JavaScript and its tools.<br>
+- :pencil2: Looking forward to learning React.<br>
+- :person_in_tuxedo: Seeking to improve my soft skills day after day.<br>
+- :eyes: Logic problems always get my attention.<br>
+- :joystick: I love playing almost every kind of game.<br>
+- :telephone: I'm open to offers and looking for remote opportunities.<br>
 
-
-## <p align=center>:earth_americas: Me, around the web:</p>
+## <p align=center>:earth_americas: Find and contact me, around the web:</p>
 - Check my personal [portfolio](https://github.com/Gopxfs?tab=repositories) (:building_construction: under construction).
 - Check my LinkedIn [profile](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/).
 - Contact me via <a href="mailto:gopxfs@hotmail.com">email</a>.
