@@ -8,7 +8,7 @@
 
 ## <p align=center>:earth_americas: Find and contact me, around the web:</p>
 - :raising_hand_man: Check my personal [portfolio](https://github.com/Gopxfs?tab=repositories) (:building_construction: under construction).
-- :detective: Check my LinkedIn [profile](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/).
+- :mag_right: Check my LinkedIn [profile](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/).
 - :mailbox: Contact me via <a href="mailto:gopxfs@hotmail.com">email</a>.
 
 ## <p align=center>:hammer_and_wrench: Languages and Tools:</p>
