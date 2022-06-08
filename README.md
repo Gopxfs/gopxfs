@@ -7,7 +7,7 @@
 - :telephone: I'm open to offers and looking for remote opportunities.<br>
 
 ## <p align=center>:earth_americas: Find and contact me around the web:</p>
-- :raising_hand_man: Check my personal [portfolio](https://github.com/Gopxfs?tab=repositories) (:building_construction: under construction).
+- :raising_hand_man: Take a look at my personal [portfolio](https://github.com/Gopxfs?tab=repositories) (:building_construction: under construction).
 - :mag_right: Check my LinkedIn [profile](https://www.linkedin.com/in/gabriel-fonseca-sales-8bb64b236/).
 - :mailbox: Contact me via <a href="mailto:gopxfs@hotmail.com">email</a>.
 
