@@ -1,4 +1,4 @@
-# <p align=center>:wave: I'm Gabriel Fonseca, future Full-stack web developer
+# <p align=center>:wave: I'm Gabriel Fonseca, Full-stack web development student
 - :computer: Currently studying JavaScript and its tools.<br>
 - :pencil2: Looking forward to learning React.<br>
 - :person_in_tuxedo: Seeking to improve my soft skills day after day.<br>
