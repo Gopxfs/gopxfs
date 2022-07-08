@@ -1,5 +1,5 @@
 # <p align=center>:wave: I'm Gabriel Fonseca, Full-stack Web Developer
-- :computer: Currently studying React&Redux.<br>
+- :computer: Currently studying React & Redux.<br>
 - :pencil2: Looking forward to learning Ruby.<br>
 - :person_in_tuxedo: Seeking to improve my soft skills day after day.<br>
 - :eyes: Logic problems always get my attention.<br>
