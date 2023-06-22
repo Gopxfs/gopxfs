@@ -1,6 +1,6 @@
 # <p align=center>:wave: I'm Gabriel Fonseca, Full-stack Web Developer
 - :computer: Currently mastering Ruby on Rails.<br>
-- :pencil2: Looking forward to improve my skills in React.<br>
+- :pencil2: Looking forward to improve my DevOps skills.<br>
 - :person_in_tuxedo: Seeking to improve my soft skills day after day.<br>
 - :eyes: Logic problems always get my attention.<br>
 - :joystick: I love playing every kind of game.<br>
