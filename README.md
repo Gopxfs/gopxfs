@@ -8,7 +8,7 @@
 
 ## <p align=center>:earth_americas: Find and contact me around the web:</p>
 - :mag_right: Check my LinkedIn [profile](https://www.linkedin.com/in/gabriel-fonseca-sales).
-- :mailbox: Contact me via <a href="mailto:gopxfs@hotmail.com">email</a>.
+- :mailbox: Contact me via <a href="mailto:gopfs@outlook.com">email</a>.
 
 ## <p align=center>:hammer_and_wrench: Languages and Tools:</p>
 <p align=center>
